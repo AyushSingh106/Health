@@ -1,0 +1,33 @@
+{
+  "name": "injurytrackingsystem",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "appwrite": "^13.0.0",
+    "fabric": "^5.3.0",
+    "framer-motion": "^10.18.0",
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1",
+    "react-icons": "^4.11.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "daisyui": "^3.9.2",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  },
+  "description": "ReportEase is a comprehensive injury tracking system designed to simplify injury reporting and management. Once users sign up, they can create detailed injury reports, providing essential information about their injuries. One of the standout features allows users to attach images and pinpoint specific regions of their injury. Additionally, users can provide descriptions for each marked region, enhancing the depth of their injury reports.",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+}
