@@ -23,22 +23,6 @@ ReportEase is a comprehensive injury tracking system designed to simplify injury
 - **Search Functionality:** Users can easily search for reports based on keywords in the report name or description.
 
 
-## Screenshots:
-
-<div align="center">
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/df884526-8dc9-4014-ab33-5e0bf4366ef6" width="45%"/>
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/055a7587-7cfb-4b38-8fe5-ae31c4076fca" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/40f4e554-3158-4a20-aa16-b1349a4065dc" width="45%"/>
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/2c31a3a0-4660-434a-b927-7d3469401933" width="45%"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/c9f7c6ef-64b1-4904-b5cf-24ae9468847b" width="45%"/>
-  <img src="https://github.com/vishalchaurasia10/Injury-Tracking-System/assets/105992958/35300bb5-8358-4e03-835d-3d58cfb12e10" width="45%"/>
-</div>
 
 ## Folder Structure
 
